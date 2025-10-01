@@ -36,6 +36,7 @@
   "homepage": "https://github.com/dkaoster/scrolly-video#readme",
   "dependencies": {
     "mp4box": "^0.4.9",
+    "scrolly-video": "^0.0.24",
     "ua-parser-js": "^1.0.2"
   },
   "devDependencies": {
